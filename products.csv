@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,UnitPrice
+P001,Laptop 14 Inch,Electronics,54999.0
+P002,Wireless Mouse,Electronics,799.0
+P003,Mechanical Keyboard,Electronics,2499.0
+P004,Bluetooth Headphones,Electronics,1999.0
+P005,Smartphone 128GB,Electronics,18999.0
+P006,USB-C Charger,Electronics,999.0
+P007,Cotton T-Shirt,Clothing,599.0
+P008,Denim Jeans,Clothing,1799.0
+P009,Running Shoes,Footwear,2999.0
+P010,Casual Sneakers,Footwear,2199.0
+P011,Water Bottle 1L,Home,399.0
+P012,Desk Lamp,Home,1299.0
+P013,Coffee Maker,Home,3499.0
+P014,Backpack 25L,Accessories,1499.0
+P015,Wrist Watch,Accessories,2499.0
+P016,Notebook A5,Stationery,149.0
+P017,Ball Pen Pack,Stationery,199.0
+P018,Yoga Mat,Sports,899.0
+P019,Fitness Dumbbells 5kg,Sports,1599.0
+P020,Travel Mug,Home,649.0
